@@ -1,1 +1,1 @@
-configuration for iso labwc/lxqt
+configuration for iso labwc/lxqt !
